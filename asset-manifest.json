@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zero-katta/static/css/main.623f8006.css",
-    "main.js": "/zero-katta/static/js/main.4c77a4c1.js",
-    "static/js/592.2461f0e4.chunk.js": "/zero-katta/static/js/592.2461f0e4.chunk.js",
-    "index.html": "/zero-katta/index.html",
-    "main.623f8006.css.map": "/zero-katta/static/css/main.623f8006.css.map",
-    "main.4c77a4c1.js.map": "/zero-katta/static/js/main.4c77a4c1.js.map",
-    "592.2461f0e4.chunk.js.map": "/zero-katta/static/js/592.2461f0e4.chunk.js.map"
+    "main.css": "/zero-kaata/static/css/main.623f8006.css",
+    "main.js": "/zero-kaata/static/js/main.5b8f6cd5.js",
+    "static/js/592.2461f0e4.chunk.js": "/zero-kaata/static/js/592.2461f0e4.chunk.js",
+    "index.html": "/zero-kaata/index.html",
+    "main.623f8006.css.map": "/zero-kaata/static/css/main.623f8006.css.map",
+    "main.5b8f6cd5.js.map": "/zero-kaata/static/js/main.5b8f6cd5.js.map",
+    "592.2461f0e4.chunk.js.map": "/zero-kaata/static/js/592.2461f0e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.623f8006.css",
-    "static/js/main.4c77a4c1.js"
+    "static/js/main.5b8f6cd5.js"
   ]
 }
